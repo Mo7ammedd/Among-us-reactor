@@ -1,24 +1,63 @@
-<h1>Among US | Start Reactor</h1>
-<h3>Play start reactor game&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mo7ammedd.github.io/Among-us-reactor/" target="black">Click to Play</a></h3>
-<hr>
-<h4>Game Preview</h4>
-<img src="files/images/win.gif">
-<img src="files/images/loose.gif">
-<hr>
+# Among Us | Start Reactor
 
-<h5>Inspiration</h5>
-<img width="400px" src="files/images/inspiration.jpg">
-<hr>
-<h3>Details : </h3>
-<p>I like the game Among Us .
-I tried to make one of its game called Start Reactor with javscript and jquery 
-Just tap on the keys  as shown in the left side of the reactor to win the game.
-When the player opens the task, a black screen will appear on the left while nine squares appear on the right. The player must memorize the order blue squares appear on the left screen and then replicate it using the keypad on the right. The player will have to memorize the five patterns. The first pattern to replicate will be a single square, and the second will be two squares, and so on until the maximum of five squares. It may seem daunting to memorize the patterns, but it is important to know that the patterns predictably build on each other. For example, the second pattern will always start with the blue square from the first pattern. The fifth pattern will be the four blue squares' order in the fourth pattern with the new blue square.
+![Among Us Start Reactor](./files/images/win.gif)
 
-The player must wait until the screen on the left finishes displaying the squares before entering the keypad pattern.
+## Play the Start Reactor Game
+Play the challenging "Start Reactor" mini-game inspired by Among Us. [Click to Play](https://mo7ammedd.github.io/Among-us-reactor/)
 
-If the player enters a pattern incorrectly, the blue squares will flash red and the process restarts, in the same order as before, and the player has another opportunity to memorize the pattern. The player may keep trying until they get it correct.
+---
 
-Green circles above the screen on the left indicate how many patterns have been successfully replicated. The green circles above the keypad on the right indicate the number of squares the player has currently selected for the pattern so far.
+## Game Preview
 
-Go Play and Enjoy!!</p>
+![Win GIF](./files/images/win.gif)
+![Lose GIF](./files/images/loose.gif)
+
+---
+
+## Inspiration
+
+![Inspiration](./files/images/inspiration.jpg)
+
+---
+
+## Overview
+
+### About the Game
+"Among Us | Start Reactor" is a game I've developed using JavaScript and jQuery, based on the popular game Among Us. The game simulates the "Start Reactor" task from Among Us.
+
+### How to Play
+Your objective is to replicate the displayed pattern on the left side of the reactor by pressing the keys shown on the right keypad. Follow these steps:
+
+1. When the game starts, a black screen appears on the left with squares lighting up in a specific order.
+2. Memorize the order in which the blue squares light up. The order becomes more complex with each pattern.
+3. Replicate the pattern by tapping the corresponding keys on the right keypad.
+4. Pay attention to the number of squares in each pattern as they increase.
+5. Successfully replicate the pattern to progress.
+
+Remember:
+- Wait until the left screen finishes displaying the squares before entering the keypad pattern.
+- If you enter the pattern incorrectly, the blue squares flash red, and you can try again.
+- Green circles above the left screen indicate patterns replicated, while those above the keypad show your progress.
+
+Have fun and challenge yourself!
+
+---
+
+## How to Contribute
+
+If you're interested in contributing to the game's development, here's how you can do it:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Make your changes, following the project's coding standards.
+4. Commit your changes with descriptive messages.
+5. Push your branch to your forked repository.
+6. Create a pull request, explaining your changes and their significance.
+
+Your contributions are appreciated!
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
