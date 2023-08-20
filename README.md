@@ -5,9 +5,7 @@
 <img src="files/images/win.gif">
 <img src="files/images/loose.gif">
 <hr>
-<h5>Final Work</h5>
-<img width="600px" src="files/images/preview.png">
-<hr>
+
 <h5>Inspiration</h5>
 <img width="400px" src="files/images/inspiration.jpg">
 <hr>
